@@ -11,6 +11,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
+import com.james.card.bean.CardDataItem;
 import com.james.card.library.CardAdapter;
 import com.james.card.library.CardSlidePanel;
 
