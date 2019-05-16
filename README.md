@@ -16,4 +16,3 @@
                 Log.d("Card", "正在消失-" + dataList.get(index).userName + " 消失type=" + type);
             }
         };
-```
