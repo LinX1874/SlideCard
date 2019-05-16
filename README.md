@@ -1,7 +1,7 @@
 # 预览图
 ![img](https://github.com/james-gan/SlideCard/blob/master/app/src/main/res/gif/aaaa.gif)
 # 监听的回调如下：
-``` java
+
         // 1. 左右滑动监听
         cardSwitchListener = new CardSlidePanel.CardSwitchListener() {
             @Override
